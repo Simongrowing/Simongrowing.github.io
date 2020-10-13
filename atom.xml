@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simongrowing.github.io</id>
     <title>SIMON GROWING</title>
-    <updated>2020-09-06T16:48:05.769Z</updated>
+    <updated>2020-10-13T03:42:06.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simongrowing.github.io"/>
     <link rel="self" href="https://simongrowing.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://simongrowing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, SIMON GROWING</rights>
     <entry>
-        <title type="html"><![CDATA[聊聊中文排版]]></title>
+        <title type="html"><![CDATA[1 聊聊中文排版]]></title>
         <id>https://simongrowing.github.io/post/liao-liao-zhong-wen-pai-ban/</id>
         <link href="https://simongrowing.github.io/post/liao-liao-zhong-wen-pai-ban/">
         </link>
