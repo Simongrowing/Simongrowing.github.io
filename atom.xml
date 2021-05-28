@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simongrowing.github.io</id>
     <title>SIMON GROWING</title>
-    <updated>2020-12-05T18:53:38.783Z</updated>
+    <updated>2021-05-28T03:02:39.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simongrowing.github.io"/>
     <link rel="self" href="https://simongrowing.github.io/atom.xml"/>
     <subtitle>KEEP GROWING！</subtitle>
     <logo>https://simongrowing.github.io/images/avatar.png</logo>
     <icon>https://simongrowing.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, SIMON GROWING</rights>
+    <rights>All rights reserved 2021, SIMON GROWING</rights>
     <entry>
         <title type="html"><![CDATA[1 聊聊中文排版]]></title>
         <id>https://simongrowing.github.io/post/liao-liao-zhong-wen-pai-ban/</id>
